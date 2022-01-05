@@ -7,7 +7,7 @@
     <li>🤔 I’m looking for help with escaping home 😳✌</li>
     <li>📫 How to reach me: pectonic@gmail.com</li>
     <li>😎 Pronouns: can/can ahmet, pec/pectonic</li>
-    <li>😝 Fun fact: I love JAMMING spotify: pectonic<img  alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://c.tenor.com/DAEL_z5-HV4AAAAS/xqc-xqc-jam.gif">       </li>
+    <li>😝 Fun fact: I love JAMMING spotify: <a href="https://open.spotify.com/user/pectonic">pectonic</a><img  alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://c.tenor.com/DAEL_z5-HV4AAAAS/xqc-xqc-jam.gif">       </li>
     
   </ul></h3>
   
