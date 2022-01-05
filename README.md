@@ -1,4 +1,4 @@
-### <h1>Selam! 👋 I'm Can Ahmet with my nickname Pectonic 🤠📿</h1>
+### <h1>Selam! 👋 I'm Can Ahmet with my nickname Pectonic 🤨📿</h1>
 
 <div style="display: inline_block"><br><h3 style="font-size:160%;">
   <ul>
