@@ -25,6 +25,8 @@
   <img align="center" alt="NumPY" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="vscode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="vscode" height="50" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+ 
   <img align="center" alt="" height="50" src="" />
 
   <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://media.discordapp.net/attachments/125619281638457345/909560938871525397/sofeer.gif">
