@@ -25,7 +25,7 @@
   <img align="center" alt="NumPY" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="vscode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="vscode" height="50" src="https://www.gstatic.com/devrel-devsite/prod/v70c9aa38be5a41f2acdfd6deb7424dc7b523d8a488274535f707585ca8d2cdd3/tensorflow/images/lockup.svg" />
+  <img align="center" alt="vscode" height="50" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.07309df606.svg" />
  
   <img align="center" alt="" height="50" src="" />
 
