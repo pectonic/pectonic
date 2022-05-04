@@ -1,7 +1,7 @@
 ### <h1>Selam! 👋 I'm Can Ahmet with my nickname Pectonic 🤨📿</h1>
 
 
-<img align="" alt="Rafa-pic" height="" style="" src="https://giphy.com/gifs/hitchhiker-hitchiking-hitchike-FASCYKtz3nzC98nUSi">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/FASCYKtz3nzC98nUSi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hitchhiker-hitchiking-hitchike-FASCYKtz3nzC98nUSi">via GIPHY</a></p>
 
 <div style="display: inline_block"><br><h3 style="font-size:160%;">
   <ul>
