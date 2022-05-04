@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br><h3 style="font-size:160%;">
   <ul>
     <li>🦾 I’m currently working on how we can use coding on agriculture 🌱</li>
-    <li>🤖 I’m currently learning python for data science </li>
+    <li>🤖 I’m currently learning machine learning</li>
     <li>🤔 I’m looking for help with escaping home 😳✌</li>
     <li>📫 How to reach me: pectonic@gmail.com</li>
     <li>😎 Pronouns: can/can ahmet, pec/pectonic</li>
