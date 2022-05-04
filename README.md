@@ -2,7 +2,7 @@
 
 
 
-  <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://giphy.com/embed/FASCYKtz3nzC98nUSi">
+  <img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://media1.tenor.com/images/5ead080120708c878fdeaac246c003cd/tenor.gif">
 
 <div style="display: inline_block"><br><h3 style="font-size:160%;">
   <ul>
