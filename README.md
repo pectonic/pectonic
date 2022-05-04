@@ -1,5 +1,7 @@
 ### <h1>Selam! 👋 I'm Can Ahmet with my nickname Pectonic 🤨📿</h1>
 
+<iframe src="https://giphy.com/embed/FASCYKtz3nzC98nUSi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hitchhiker-hitchiking-hitchike-FASCYKtz3nzC98nUSi">via GIPHY</a></p>
+
 <div style="display: inline_block"><br><h3 style="font-size:160%;">
   <ul>
     <li>🦾 I’m currently working on how we can use coding on agriculture 🌱</li>
