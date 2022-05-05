@@ -17,11 +17,12 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/pectonic">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=pectonic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pectonic&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pectonic&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pectonic&repo=convoychat" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
