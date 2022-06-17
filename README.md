@@ -8,7 +8,7 @@
   <ul>
     <li>🦾 I’m currently working on how we can use coding on agriculture 🌱</li>
     <li>🤖 I’m currently learning machine learning</li>
-    <li>😝 spotify: <a href="https://open.spotify.com/user/pectonic">pectonic</a><img  alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://c.tenor.com/DAEL_z5-HV4AAAAS/xqc-xqc-jam.gif">       </li>
+    <li>🎶 spotify: <a href="https://open.spotify.com/user/pectonic">pectonic</a><img  alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://c.tenor.com/DAEL_z5-HV4AAAAS/xqc-xqc-jam.gif">       </li>
     
   </ul></h3>
   
